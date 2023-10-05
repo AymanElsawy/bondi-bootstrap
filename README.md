@@ -9,7 +9,7 @@
 ![HOME5](./imgs/home5.png)
 ![HOME6](./imgs/home6.png)
 ![HOME7](./imgs/home7.png)
-![HOME8](./imgs/home8.png)
+
 
 
 
